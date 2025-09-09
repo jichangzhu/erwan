@@ -24,12 +24,12 @@
 
 ## 尔湾云加速器机场测速
 
-![erwan-SpeedTest](https://github.com/user-attachments/assets/b4f360d8-3526-4eda-b475-c7df5cabe783)
+<img width="4093" height="6034" alt="erwan-SpeedTest-GXYD-20250905" src="https://github.com/user-attachments/assets/259c4f99-ebf7-4ec4-a73d-b971a641c530" />
 
 
 ## 尔湾云加速器出入口分析
 
-![erwan-Network-Topology](https://github.com/user-attachments/assets/456909c9-2d7c-459c-adef-66ea2e170768)
+<img width="1815" height="6208" alt="erwan-Network-Topology-GXYD-20250905" src="https://github.com/user-attachments/assets/4181670e-6732-49fd-adfa-96a0bb83237b" />
 
 
 ## 尔湾云加速器跑路
