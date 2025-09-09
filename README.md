@@ -36,7 +36,7 @@
 目前尔湾云加速器没有跑路，可以放心使用。
 
 ## 尔湾云加速器评测
-更多有关三番云加速器评测可访问：https://jichangzhu.com/node/erwan/
+更多有关尔湾云加速器评测可访问：https://jichangzhu.com/node/erwan/
 
 ## 机场推荐
  - [最新好用的机场推荐与节点分享](https://github.com/jichangzhu/JichangTuijian)
